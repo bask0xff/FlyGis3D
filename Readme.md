@@ -7,6 +7,8 @@ Delaunay triangulation, computational geometry, custom data structures such as L
 Delphi 5
 
 ![Screenshot](https://i.imgur.com/5Kn0sNF.jpg)
+![Screenshot](https://i.imgur.com/Ddk4o4f_d.webp?maxwidth=760&fidelity=grand)
+
 
 P.S. There is a bug - incorrect text encoding because of a lot of time spent - more than 20 years
 
