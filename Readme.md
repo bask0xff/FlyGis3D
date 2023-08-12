@@ -1,6 +1,6 @@
-3D-visualisation of GIS MapInfo files using OpenGL.
+# 3D-visualisation of GIS MapInfo files using OpenGL.
 
-University diplom project written in 1997-1999
+University diploma project written in 1997-1999
 
 Delaunay triangulation, computational geometry, custom data structures such as LinkedList and other, 3D, OpenGL, Bresenham's algorithm for lines drawing; calculation invisible places on terrain; 3D flying by traektory with observing selected point...
 
