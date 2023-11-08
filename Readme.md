@@ -1,10 +1,10 @@
 # 3D-visualisation of GIS MapInfo files using OpenGL.
 
-University diploma project written in 1997-1999
+University diploma project written in 1997-1999.
 
-Delaunay triangulation, computational geometry, custom data structures such as LinkedList and other, 3D, OpenGL, Bresenham's algorithm for lines drawing; calculation invisible places on terrain; 3D flying by traektory with observing selected point...
+The project involves Delaunay triangulation in computational geometry, the development of custom data structures such as LinkedList, and other components for 3D graphics using OpenGL. It includes Bresenham's algorithm for line drawing and algorithms for calculating invisible areas on terrain. The project also features 3D navigation along a trajectory while observing a selected point.
 
-NB! Neither Pascal nor Delphi have a built-in implementation of some of the data structures we use every day, so I wrote my own implementation. In the file Geom1.pas, you can see my implementation of a linked list, which may help you to understand how it works in a very simple example.
+NB! Neither Pascal nor Delphi provides built-in implementations for some of the common data structures we use daily, so I developed my own. In the file Geom1.pas, you can find my implementation of a linked list, which may serve as a simple example to understand how these structures work.
 
 Delphi 5
 
