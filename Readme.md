@@ -16,5 +16,4 @@ Delphi 5
 
 
 P.S. There is a bug - incorrect text encoding because of a lot of time spent - more than 20 years
-
-
+P.P.S. In bottom panel you can see very old icons: Windows95, IE, Far Manager, Dial-Up, Paint, ICQ, WinAMP,...
