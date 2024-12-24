@@ -1,6 +1,6 @@
 # 3D-visualisation of GIS MapInfo files using OpenGL.
 
-University diploma project written in 1997-1999.
+University diploma project written in 1997-1999 by Sergey Baskov.
 Scientific supervisor - [Petr Darakhvelidze](https://www.amazon.com/Books-Peter-Darakhvelidze/s?rh=n%3A283155%2Cp_27%3APeter%2BDarakhvelidze) 
 
 The project involves Delaunay triangulation in computational geometry, the development of custom data structures such as LinkedList, and other components for 3D graphics using OpenGL. It includes Bresenham's algorithm for line drawing and algorithms for calculating invisible areas on terrain. The project also features 3D navigation along a trajectory while observing a selected point.
