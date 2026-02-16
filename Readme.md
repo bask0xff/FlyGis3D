@@ -6,6 +6,13 @@ The project involves Delaunay triangulation in computational geometry, the devel
 
 NB! Neither Pascal nor Delphi provides built-in implementations for some of the common data structures we use daily, so I developed my own. In the file Geom1.pas, you can find my implementation of a linked list, which may serve as a simple example to understand how these structures work.
 
+## Donate
+USDT TRC20 : THR5VLuZWn7z8iiXwJ1WK9Sg4E6Ae8qUmk
+
+USDT ERC20 : 0x4b5fAF36e95918AD3e65bF9bd42E1FDEca93db2e
+
+Bitcoin BTC : 1AqcSbBw1UDULszboqi8mq8jE7Kykwwncm
+
 Delphi 5
 
 ![Screenshot](https://i.imgur.com/Ddk4o4f_d.webp?maxwidth=760&fidelity=grand)
